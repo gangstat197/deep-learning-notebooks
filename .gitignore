@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv-clean/
+tensorflow-gpu-env/
+
+# Ignore large model files and datasets
+*.h5
+*.zip
+*.data-00000-of-00001
+*._*.h5
+
+# Ignore model checkpoints and weights
+best_*.h5
+*_model.h5
+*_weights.h5
+
+# Ignore large datasets
+datasets/
+*.csv
