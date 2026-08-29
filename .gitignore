@@ -16,3 +16,6 @@ best_*.h5
 # Ignore large datasets
 datasets/
 *.csv
+
+.venv-pytorch
+
