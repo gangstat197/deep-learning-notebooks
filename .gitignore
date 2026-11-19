@@ -1,0 +1,27 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual environments
+.venv/
+.venv-pytorch/
+venv/
+venv-clean/
+tensorflow-gpu-env/
+
+# Large files and datasets
+datasets/
+*.csv
+*.zip
+*.h5
+*.data-00000-of-00001
+
+# Local-only coursework and experiments
+d2l-en/
+dl_coursera_notebooks/
+ise-final-test/
+linear_regression/
+unsupervised_learning_test/
+_my_ml_framework/
